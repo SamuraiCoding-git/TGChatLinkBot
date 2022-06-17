@@ -11,7 +11,10 @@ QIWI_PUBKEY = os.getenv("qiwi_p_pub")
 channel_id = os.getenv("channel")
 
 admins = [
-    422999166
+    EXAMPLE:
+    11111111,
+    22222222,
+    33333333
 ]
 
 ip = os.getenv("ip")
